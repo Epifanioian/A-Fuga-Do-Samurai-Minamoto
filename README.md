@@ -59,4 +59,4 @@ Feito isso, siga os seguintes passos:
 3. Extraia o arquivo ZIP
 4. Abra a pasta extraída do projeto
 5. Abra o arquivo Main.py a partir da pasta extraída e execute o código
-# Aviso: Em caso de erro na execução, verifique sempre o caminho dos arquivos e certifique-se de que o terminal está aberto na pasta principal do projeto.
+### Aviso: Em caso de erro na execução, verifique sempre o caminho dos arquivos e certifique-se de que o terminal está aberto na pasta principal do projeto.
