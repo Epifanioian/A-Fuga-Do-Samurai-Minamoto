@@ -63,7 +63,9 @@ Feito isso, siga os seguintes passos:
 
 ## Estrutura do Código
 
+<p
 A-Fuga-Do-Samurai-Minamoto/
+  <p/>
 │
 ├── Main.py
 ├── Jogo1.py
