@@ -25,11 +25,15 @@ A Fuga do Samurai Minamoto é um jogo 2D desenvolvido em Python utilizando a bib
 ## Aviso
 Não foram utilizadas bibliotecas gráficas para além de funções gráficas que usem o Set Pixel.
 
-## Iteração com Menus
+## Interação com Menus
 Ao iniciar o programa, será exibido ao usuário um menu inicial que dispõe das seguintes opções: Jogar, História e Sair. A tela de História apresenta todo o contexto fictício o qual o jogo se insere. Ao apertar em Sair, o código é fechado. Por fim, ao apertar em Jogar, será exibido um  menu secundário que apresenta duas opções: Nível I e Nível II. Apertando em Esc o usuário volta para o menu principal.
 
 <p align="center">
   <img src="imagens/menu.png" width="700">
+</p>
+
+<p align="center">
+  <img src="imagens/menu2.png" width="700">
 </p>
 
 ## Jogabilidade
