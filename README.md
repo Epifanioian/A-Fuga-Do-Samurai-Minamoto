@@ -85,3 +85,6 @@ A-Fuga-Do-Samurai-Minamoto/
 │
 └── Textura/
     └── telha.jpg
+```
+## Vídeo de Execução
+- https://drive.google.com/file/d/1CVehyEeusnxosNOdi4p0Ef5OMmTSr65T/view?usp=drive_link
