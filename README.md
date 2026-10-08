@@ -50,3 +50,8 @@ Além disso, em ambas as fases, há uma viewport que apresenta o samurai, o ninj
 <p align="center">
   <img src="imagens/jogo.png" width="700">
 </p>
+
+## Como compilar e executar
+Para executar o programa, é necessário ter instalado o Python 3 e o Pygame.
+Feito isso, siga os seguintes passos:
+1. 
