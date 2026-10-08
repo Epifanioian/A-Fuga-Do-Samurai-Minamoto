@@ -60,3 +60,27 @@ Feito isso, siga os seguintes passos:
 4. Abra a pasta extraída do projeto
 5. Abra o arquivo Main.py a partir da pasta extraída e execute o código
 ### Aviso: Em caso de erro na execução, verifique sempre o caminho dos arquivos e certifique-se de que o terminal está aberto na pasta principal do projeto.
+
+## Estrutura do Código
+
+A-Fuga-Do-Samurai-Minamoto/
+│
+├── Main.py
+├── Jogo1.py
+├── Menus.py
+├── Personagens.py
+├── Decoracoes.py
+├── EfeitosGraficos.py
+├── Preenchimento.py
+├── Primitivas.py
+├── Transformacoes.py
+├── Viewport.py
+├── Colisoes.py
+├── Cores.py
+│
+├── EfeitosSonoros/
+│   ├── bounce-bay-records-traditional-japanese-3-437933.mp3
+│   └── dragon-studio-cartoon-jump-463196.mp3
+│
+└── Textura/
+    └── telha.jpg
