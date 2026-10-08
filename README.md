@@ -61,11 +61,10 @@ Feito isso, siga os seguintes passos:
 5. Abra o arquivo Main.py a partir da pasta extraída e execute o código
 ### Aviso: Em caso de erro na execução, verifique sempre o caminho dos arquivos e certifique-se de que o terminal está aberto na pasta principal do projeto.
 
-## Estrutura do Código
+## Estrutura do projeto
 
-<p
+```text
 A-Fuga-Do-Samurai-Minamoto/
-  <p/>
 │
 ├── Main.py
 ├── Jogo1.py
