@@ -54,4 +54,8 @@ Além disso, em ambas as fases, há uma viewport que apresenta o samurai, o ninj
 ## Como compilar e executar
 Para executar o programa, é necessário ter instalado o Python 3 e o Pygame.
 Feito isso, siga os seguintes passos:
-1. 
+1. Clique em Code
+2. Selecione o Download ZIP
+3. Extraia o arquivo ZIP
+4. Abra a pasta extraída do projeto
+5. Abra o arquivo Main.py a partir da pasta extraída e execute o código
