@@ -46,3 +46,7 @@ Ao apertar em Nível I ou em Nível II, irá ser exibido um cenário típico jap
 Para o jogador ganhar, basta desviar de todos os avanços do ninja sem perder as três vidas (as vidas são expostas como círculos vermelhos no canto superior esquerdo da tela).
 O que diferencia o Nível I do Nível II é que, no Nível II, o ninja é mais rápido.
 Além disso, em ambas as fases, há uma viewport que apresenta o samurai, o ninja e o cenário no canto superior direito da tela.
+
+<p align="center">
+  <img src="imagens/jogo.png" width="700">
+</p>
